@@ -1,4 +1,2 @@
-print("Say Helo to Master!")
-print("One more line")
-print("Adding potentially conflict line")
-print("Adding potentially conflict line");
+print("Say Helo to Master!");
+print("One more line");
